@@ -1,7 +1,7 @@
-# Csc-282-project-php-
+# My-Csc-282-project-php-
 Student Registration App in PHP 
-Name: Jesam Francis Omini
-Matric Number: 23/CSC/283
+Name: Daniel Isuk John
+Matric Number: 23/MTH/004T
 Course Code : CSC 281
 Assignment Title: Student App with PHP 
 Instruction on How to run:
