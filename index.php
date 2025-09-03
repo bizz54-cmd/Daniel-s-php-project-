@@ -23,4 +23,5 @@
 
     <p><a href="view.php">View Registered Students</a></p>
 </body>
+
 </html>
